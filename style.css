@@ -1,0 +1,15 @@
+body {
+	background: #ebc0e6;
+}
+
+h1 {
+	text-align: center;
+}
+
+#recipe-list {
+	text-align: center;
+}
+
+#recipe-list li {
+	list-style-type: none;
+}
